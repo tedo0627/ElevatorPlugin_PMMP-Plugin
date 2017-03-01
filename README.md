@@ -1,0 +1,2 @@
+# ElevatorPlugin_PMMP-Plugin
+エレベータの要素を追加するプラグインです
